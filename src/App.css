@@ -1,0 +1,20 @@
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.transition{
+    transition: all 0.5s ease;
+}
+*{
+    transition: all 0.5s ease;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+/* Put animation in alerts
+and modify alert 
+long should change */
+/* 
+some changes in dark mode and light mode */
