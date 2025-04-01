@@ -77,11 +77,11 @@ We welcome contributions to **Wonder Text**! If you'd like to contribute, please
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Geeta-Tech/wonder-text/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Geeta-Systems/wonder-text/blob/main/LICENSE) for more information.
 
 ## Contact
 
-- **Author** : [Harsh Yadav](https://github.com/HarshYadav152) - [Geeta Technologies](https://github.com/Geeta-Tech)
-- **Email**  : [E-mail](mailto:geetatch.dev@gmail.com)
-- **GitHub** : [Geeta-Tech](https://github.com/Geeta-Tech)
+- **Author** : [Harsh Yadav](https://github.com/HarshYadav152) - [Geeta Technologies](https://github.com/Geeta-Systems)
+- **Email**  : [E-mail](mailto:geetatech.dev@gmail.com)
+- **GitHub** : [Geeta-Tech](https://github.com/Geeta-Systems)
 
